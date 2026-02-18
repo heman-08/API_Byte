@@ -18,6 +18,7 @@ struct AppShortcuts: AppShortcutsProvider {
             phrases: [
                 "Log a drink in \(.applicationName)",
                 "Track water in \(.applicationName)",
+                "Hydrate in \(.applicationName)",
                 "Add water in \(.applicationName)"
             ],
             shortTitle: "Log Water",
